@@ -1,5 +1,5 @@
 # Problem - The Snail
-![Snail](https://media.giphy.com/media/hZ0TnRUvDKgxy/giphy.gif)
+![Snail](https://media.giphy.com/media/n17GyE4DbZfbO/giphy.gif)
 Given an n x n array, write a method that returns the array elements arranged from outermost elements to the middle element, traveling clockwise.
 
 A good way to visualize this is to picture the spiral shell of a snail! 
