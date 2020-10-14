@@ -1,5 +1,5 @@
-# Problem - Target + Payload
-![Integers](https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy.gif)
+# Problem - Numbers
+![Integers](https://media.giphy.com/media/h12hzyHiCNGRG/giphy.gif)
 
 You have three arrays of equal size -- each has 1 million RANDOM integer values.
 
