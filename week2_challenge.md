@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Problem - Robot
-![Robot](https://media.giphy.com/media/N8wR1WZobKXaE/giphy.gif)
-=======
 # Problem
 ![Robot](https://media.giphy.com/media/I7kkegrRyNrk4/giphy.gif)
->>>>>>> d1650c859fdc4b8662917d4c9edecd57ec0334db
 
 You are working with a computer simulation of a mobile robot. The robot moves on an plane, and its movements are described by a command string consisting of one or more 
 of the following letters:
