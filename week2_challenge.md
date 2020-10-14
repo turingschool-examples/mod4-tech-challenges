@@ -1,5 +1,5 @@
 # Problem
-![Robot](https://media.giphy.com/media/N8wR1WZobKXaE/giphy.gif)
+![Robot](https://media.giphy.com/media/I7kkegrRyNrk4/giphy.gif)
 
 You are working with a computer simulation of a mobile robot. The robot moves on an plane, and its movements are described by a command string consisting of one or more 
 of the following letters:
