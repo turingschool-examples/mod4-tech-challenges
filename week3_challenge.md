@@ -1,16 +1,30 @@
-# Problem - Robot
-![Robot](https://media.giphy.com/media/N8wR1WZobKXaE/giphy.gif)
+# Problem - The Snail
+![Snail](https://media.giphy.com/media/hZ0TnRUvDKgxy/giphy.gif)
+Given an n x n array, write a method that returns the array elements arranged from outermost elements to the middle element, traveling clockwise.
 
-You are working with a computer simulation of a mobile robot. The robot moves on an plane, and its movements are described by a command string consisting of one or more 
-of the following letters:
+A good way to visualize this is to picture the spiral shell of a snail! 
 
-* `G` instructs the robot to move forward one step
-* `L` instructs the robot to turn left
-* `R` instructs the robot to turn right
+## JS Example
+```js
+const arrayMatrix = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+];
 
-The robot CANNOT go backwards - poor robot. After running all of the movement commands, you want to know if the robot returns to its original starting location.
+snail(arrayMatrix) #=> [1, 2, 3, 6, 9, 8, 7, 4, 5]
+```
 
-For instance, the command `GRGRGRG` would make the robot return to its original starting location.
+## Ruby Example
+```rb
+arrayMatrix = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+];
+
+snail(arrayMatrix) #=> [1, 2, 3, 6, 9, 8, 7, 4, 5]
+```
 
 # Instructions
 
@@ -44,3 +58,7 @@ Do not publish your code on a public repl.it or repo or other public means.
 
 
 ## Write out a few lines of initial pseudocode: (mid-level design, NOT REAL CODE)
+
+## Write out any implementation code OR link to repl
+
+## What is the Big O complexity of your solution?
