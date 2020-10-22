@@ -28,7 +28,7 @@ snail(arrayMatrix) #=> [1, 2, 3, 6, 9, 8, 7, 4, 5]
 
 # Instructions
 
-1. Copy this markdown and paste in your own, privte gist
+1. Copy this markdown and paste in your own, private gist
 2. In your private gist, fill out the questions below
 4. Submit by the due time as instructed in Zoom
 
