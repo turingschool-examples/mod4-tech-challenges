@@ -15,7 +15,7 @@ Limit your online searches to core language documentation only.
 
 # Instructions
 
-1. Copy this markdown and paste in your own, privte gist
+1. Copy this markdown and paste in your own, private gist
 2. In your private gist, fill out the questions below
 4. Submit by the due time as instructed in Zoom
 
