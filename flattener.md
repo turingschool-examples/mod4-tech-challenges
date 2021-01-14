@@ -4,7 +4,7 @@
 Imagine you have a deeply nested array, or multi-dimensional array, like this:
 
 ```rb
- array_of_ints = [1, 2, 3, [[4], 5], [[[6]]]]]
+ array_of_ints = [1, 2, 3, [[4], 5], [[[6]]]]
  array_of_strings = ["hi", "this is", [[["string"], "that is very"], [[[["nested"]]]]]]
 ```
 the contents of the array aren't important.
@@ -27,8 +27,8 @@ and in JS:
 If we look at the docs for either of these, we notice that they are _recursive_ by nature. Your goal is to recreate this functionality by writing a recursive function to accomplish this same thing. For example:
 
 ```rb
- array_of_ints = [1, 2, 3, [[4], 5], [[[6]]]]]
-=> [1, 2, 3, [[4], 5], [[[6]]]]]
+ array_of_ints = [1, 2, 3, [[4], 5], [[[6]]]]
+=> [1, 2, 3, [[4], 5], [[[6]]]]
 ruby_flattener(array_of_ints)
 => [1, 2, 3, 4, 5, 6]
 ```
