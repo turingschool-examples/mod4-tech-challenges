@@ -1,5 +1,6 @@
 # Mod 4 Tech Challenges
-![Fun!](https://media.giphy.com/media/kCrGOt5ojlVbG/giphy.gif)
+
+Tech challenges used throughout the combined mod 4 module with question prompts provided.
 
 ## List of Tech Challenges
 - [Week 2](/week2_challenge.md)
