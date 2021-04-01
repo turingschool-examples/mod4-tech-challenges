@@ -1,8 +1,7 @@
 # Problem
 ![Robot](https://media.giphy.com/media/I7kkegrRyNrk4/giphy.gif)
 
-You are working with a computer simulation of a mobile robot. The robot moves on an plane, and its movements are described by a command string consisting of one or more 
-of the following letters:
+You are working with a computer simulation of a mobile robot. The robot moves on an plane, and its movements are described by a command string consisting of one or more of the following letters:
 
 * `G` instructs the robot to move forward one step
 * `L` instructs the robot to turn left
@@ -14,9 +13,8 @@ For instance, the command `GRGRGRG` would make the robot return to its original 
 
 # Instructions
 
-1. Copy this markdown and paste in your own, privte gist
+1. Copy this markdown and paste in your own, private gist
 2. In your private gist, fill out the questions below
-4. Submit by the due time as instructed in Zoom
 
 Do not publish your code on a public repl.it or repo or other public means.
 
