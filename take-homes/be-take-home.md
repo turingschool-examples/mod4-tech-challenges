@@ -1,10 +1,10 @@
 # Tea Subscription Service
 
-You will create an API for a Tea Subscription Service.
+You will create a Rails API for a Tea Subscription Service.
 
 ## Requirements:
 
-At a minimum, you must show:
+At a minimum, you must create:
 
 - An endpoint to subscribe a customer to a tea subscription
 - An endpoint to cancel a customer's tea subscription
@@ -18,12 +18,13 @@ Beyond the base requirements, include any additional endpoints you'd like, but b
 - Ability to create restful routes
 - Demonstration of well-organized code, following OOP
 - Test Driven Development
+- Clear documentation
 
 Try to limit your total time to approximately 6 hours on this project. Prioritize what is important to completing MVP and demonstrating your capabilities as a developer. If you are looking for a stretch option, you can consume this API for tea information: [Tea API](https://tea-api-vic-lo.herokuapp.com/)
 
 ### Data Details
 
-Note: The below outlines are meant to help provide a guide for data details. If you believe more information is necessary please include it in your database. You may use fake data in your application.
+Note: The below data outlines are meant to be a guide for data details you would want use. If you want to change or include more information please do so. Using fake data in your application is okay.
 
 **Tea**
 
