@@ -1,7 +1,9 @@
 # Problem - Roman Numerals
 ![Roman Numerals](https://media.giphy.com/media/xT5LMNd1ieywmnI3Qc/giphy.gif)
 
-Write a recursive function that converts an integer into a string such that the number is represented in Roman Numerals in the most efficient way.
+[What are Roman Numerals?](https://www.mathsisfun.com/roman-numerals.html)
+
+Write a function that converts an integer into a string such that the number is represented in Roman Numerals in the most efficient way.
 
 For example, the number `4` could be written as `IIII` but it's more efficient to use `IV`since that's a shorter string.
 
